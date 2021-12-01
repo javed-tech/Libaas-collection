@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Libaas-collection/static/css/main.e2763989.chunk.css",
+    "main.js": "/Libaas-collection/static/js/main.fd963259.chunk.js",
+    "main.js.map": "/Libaas-collection/static/js/main.fd963259.chunk.js.map",
+    "runtime-main.js": "/Libaas-collection/static/js/runtime-main.9f42fd5d.js",
+    "runtime-main.js.map": "/Libaas-collection/static/js/runtime-main.9f42fd5d.js.map",
+    "static/js/2.f57ceefc.chunk.js": "/Libaas-collection/static/js/2.f57ceefc.chunk.js",
+    "static/js/2.f57ceefc.chunk.js.map": "/Libaas-collection/static/js/2.f57ceefc.chunk.js.map",
+    "static/js/3.05868ba0.chunk.js": "/Libaas-collection/static/js/3.05868ba0.chunk.js",
+    "static/js/3.05868ba0.chunk.js.map": "/Libaas-collection/static/js/3.05868ba0.chunk.js.map",
+    "index.html": "/Libaas-collection/index.html",
+    "static/css/main.e2763989.chunk.css.map": "/Libaas-collection/static/css/main.e2763989.chunk.css.map",
+    "static/js/2.f57ceefc.chunk.js.LICENSE.txt": "/Libaas-collection/static/js/2.f57ceefc.chunk.js.LICENSE.txt",
+    "static/media/banner.380a65bb.webp": "/Libaas-collection/static/media/banner.380a65bb.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f42fd5d.js",
+    "static/js/2.f57ceefc.chunk.js",
+    "static/css/main.e2763989.chunk.css",
+    "static/js/main.fd963259.chunk.js"
+  ]
+}
